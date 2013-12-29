@@ -1,0 +1,3 @@
+'preview': '@shoelace build --preview'
+'build/*.css': ''
+'build/*.js': ''
