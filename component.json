@@ -1,15 +1,13 @@
 {
   "name": "clearfix",
   "repo": "shoelace-ui/clearfix",
-  "description": "Clearfix placeholder",
-  "version": "0.0.1",
+  "description": "Clearfix implementation",
+  "version": "0.0.2",
   "keywords": [],
   "dependencies": {},
-  "development": {
-    "shoelace-ui/shoelace": "*"
-  },
+  "development": {},
   "license": "MIT",
   "styles": [
-    "stylesheets/index.styl"
+    "dist/index.css"
   ]
 }

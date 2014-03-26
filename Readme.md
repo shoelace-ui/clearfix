@@ -1,17 +1,17 @@
 
 # clearfix
 
-  Clearfix placeholder
+  Clearfix helpers.
 
 ## Installation
 
-  Install with [component(1)](http://component.io):
+  With [component(1)](http://component.io):
 
-    $ component install shoelace/clearfix
+    $ component install shoelace-ui/clearfix
 
-## API
+  With [npm(1)](http://npmjs.org):
 
-
+    $ npm install shoelace-ui/clearfix
 
 ## License
 
