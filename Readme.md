@@ -1,17 +1,13 @@
 
 # clearfix
 
-  Clearfix helpers.
+`clear` and clearfix mixins
 
 ## Installation
 
-  With [component(1)](http://component.io):
-
-    $ component install shoelace-ui/clearfix
-
-  With [npm(1)](http://npmjs.org):
-
-    $ npm install shoelace-ui/clearfix
+```sh
+$ npm install git://github.com/shoelace-ui/clearfix.git
+```
 
 ## License
 

@@ -1,16 +1,11 @@
 {
-  "name": "stylus-clearfix",
-  "version": "0.1.0",
-  "description": "Clearfix helpers",
-  "main": "index.js",
+  "name": "shoelace-ui-clearfix",
+  "version": "0.0.1",
+  "description": "`clear` and clearfix mixins",
   "repository": "https://github.com/shoelace-ui/clearfix.git",
-  "keywords": [
-    "clearfix",
-    "stylus"
-  ],
+  "keywords": ["shoelace", "clearfix"],
   "author": "Michael Andrew Vanasse <mail@mndvns.com>",
-  "devDependencies": {
-    "stylus": "^0.42.3"
-  },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+  }
 }
