@@ -3,6 +3,8 @@
  */
 
 @require './variables'
-@require './mixins'
 @require './placeholders'
-@require './styles'
+
+if clearfix--apply-styles
+  .clearfix
+    @extend $clearfix
