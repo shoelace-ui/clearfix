@@ -1,11 +1,10 @@
 {
   "name": "shoelace-ui-clearfix",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "`clear` and clearfix mixins",
   "repository": "https://github.com/shoelace-ui/clearfix.git",
   "keywords": ["shoelace", "clearfix"],
   "author": "Michael Andrew Vanasse <mail@mndvns.com>",
   "license": "MIT",
-  "dependencies": {
-  }
+  "dependencies": {}
 }

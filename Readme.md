@@ -1,14 +1,17 @@
-
 # clearfix
 
 `clear` and clearfix mixins
 
-## Installation
+## Install
 
 ```sh
-$ npm install git://github.com/shoelace-ui/clearfix.git
+$ npm install shoelace-ui-clearfix
 ```
+## Usage
 
+```styl
+@require 'shoelace-ui-clearfix'
+```
 ## License
 
-  MIT
+MIT
